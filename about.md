@@ -1,7 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "
+自从进入20岁之后的时间里，时常会陷入一种
+" 
 header-img: "img/green.jpg"
 ---
 
